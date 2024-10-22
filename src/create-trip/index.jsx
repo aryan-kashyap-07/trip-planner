@@ -174,7 +174,7 @@ const CreateTrip = () => {
       <div>
         <h2 className='text-xl my-3 font-medium'>What is your Budget...?</h2>
         <p className='mt-3 text-gray-500 text-xl'>
-          The budge is exclusively allocated for activities and dining purposes.
+          How many people are there.
         </p>
       </div>
       <div className='grid grid-cols-3 gap-5 mt-5'>
